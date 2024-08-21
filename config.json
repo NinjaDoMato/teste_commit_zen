@@ -1,0 +1,45 @@
+{
+   "$schema": "https://github.com/MrLuje/vs-commitizen/config-schema.json",
+   "types": [
+    {
+      "type": "feat",
+      "description": "feat: Uma nova funcionalidade."
+    },
+    {
+      "type": "fix",
+      "description": "fix: Correcao de bugs."
+    },
+    {
+      "type": "docs",
+      "description": "style: Mudancas que nao afetam o significado do codigo (formatacao, ponto e virgula, etc.)."
+    },
+    {
+      "type": "refactor",
+      "description": "refactor: Refatoracao de codigo sem mudanças de funcionalidade ou correcoes de bugs."
+    },
+    {
+      "type": "perf",
+      "description": "perf: Melhorias de desempenho."
+    },
+    {
+      "type": "test",
+      "description": "test: Adição ou correção de testes."
+    },
+    {
+      "type": "ci",
+      "description": "ci: Mudanças nos arquivos e scripts de configuração de CI"
+    },
+    {
+      "type": "build",
+      "description": "build: Mudanças que afetam o sistema de build ou dependências externas (ex: gulp, npm)."
+    },
+    {
+      "type": "chore",
+      "description": "chore: Outras mudanças que nao modificam src ou arquivos de teste."
+    },
+    {
+      "type": "revert",
+      "description": "revert: Reversão de um commit anterior."
+    }
+  ]
+}
