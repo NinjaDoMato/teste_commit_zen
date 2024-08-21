@@ -11,7 +11,7 @@
     },
     {
       "type": "docs",
-      "description": "style: Mudancas que nao afetam o significado do codigo (formatacao, ponto e virgula, etc.)."
+      "description": "style: Mudancas que nao afetam o significado do codigo (formatacao, ponto e virgula, etc.)." 
     },
     {
       "type": "refactor",
